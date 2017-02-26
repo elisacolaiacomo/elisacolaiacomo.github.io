@@ -11,9 +11,8 @@
  
  .card {
  	padding-top: 10px
- 	border-style: groove;
- 	border-width: 5px;
- 	border-color: rgb(240,128,128);
+ 	border-color: pink; 
+ 	border-stile: double;
    }
 
   .social {
