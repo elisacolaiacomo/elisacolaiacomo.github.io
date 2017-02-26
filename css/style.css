@@ -1,0 +1,40 @@
+h1 { 
+	color: grey;
+	font-style: italic;
+	font-weight: bold;
+ }
+
+ body { 
+ 	background-color: white;
+ 	background-image: Url(../img/background5.jpg)
+  }
+
+
+ .profilepic {
+ 	max-width: 100%;
+  }
+
+ .card {
+ 	margin-bottom: 10px;
+ 	margin-top: 10px;
+  }
+ 
+ .card {
+ 	padding-top: 10px
+   }
+
+  .social {
+  	padding: 3px;
+  }
+
+  .progress {
+  	margin-top: 10px;
+  	margin-bottom: 10px;
+   }
+
+    .social-icon: hover 
+    	text-decoration: none;
+    	color: hotpink;
+   }
+
+
